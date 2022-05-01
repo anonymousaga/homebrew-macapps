@@ -7,7 +7,7 @@ cask "grayscale" do
 
   url "https://github.com/anonymousaga/grayscale/releases/download/v1.0/Grayscale.zip"
   name "Grayscale"
-  desc "Simple app to toggle between /color with one click"
+  desc "Simple app to toggle between grayscale/color with one click"
   homepage "https://github.com/anonymousaga/grayscale"
 
   depends_on arch: :intel
