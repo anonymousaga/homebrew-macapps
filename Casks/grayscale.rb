@@ -16,3 +16,4 @@ cask "grayscale" do
 
   app "Grayscale/Grayscale.app"
 end
+
